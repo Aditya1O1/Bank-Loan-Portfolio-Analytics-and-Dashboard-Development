@@ -56,8 +56,7 @@ MTech CSE (AI & Data Science)
 Department of Computer Science & Engineering  
 Indian Institute of Information Technology, Bhagalpur  
 Sabour, Bhagalpur – 813210, Bihar, India  
-E-mail: **[aditya.240201001@iiitbh.ac.in](mailto:aditya.240201001@iiitbh.ac.in)**, **[adityakumar26072000@gmail.com](mailto:adityakumar26072000@gmail.com)**  
-Mobile: +91 7858826847  
+E-mail: **[aditya.240201001@iiitbh.ac.in](mailto:aditya.240201001@iiitbh.ac.in)**, **[adityakumar26072000@gmail.com](mailto:adityakumar26072000@gmail.com)**   
 **[LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-pandey-814169252/)**  
 **[Personal Portfolio](https://personal-portfolio-adityapandey.netlify.app/)**  
 
